@@ -1,0 +1,725 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Coding\\Projects\\HR System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\hr system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:hr system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\controllers\\traineecoursesresultsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:controllers\\traineecoursesresultsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\models\\uniquenameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:models\\uniquenameattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\trainee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\trainee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\trainee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\trainee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\trainee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\trainee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\department\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\department\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:controllers\\traineecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\controllers\\daycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:controllers\\daycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\viewmodels\\loginuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:viewmodels\\loginuservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\migrations\\20240315150937_security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:migrations\\20240315150937_security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\viewmodels\\applicationuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:viewmodels\\applicationuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\repository\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:repository\\traineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\trainee\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\trainee\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:repository\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\repository\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:repository\\itraineerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\repository\\iinstructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:repository\\iinstructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:repository\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\models\\checkmanagerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:models\\checkmanagerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\courseresults\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\courseresults\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\views\\instructor\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:views\\instructor\\addnew.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|d:\\.net\\coding\\projects\\hr system\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0CCC1E-BCCC-4869-B91D-BBD7C1E7CF7E}|HR System.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TraineeCoursesResultsViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\TraineeCoursesResultsViewModel.cs",
+              "RelativeDocumentMoniker": "Controllers\\TraineeCoursesResultsViewModel.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\TraineeCoursesResultsViewModel.cs",
+              "RelativeToolTip": "Controllers\\TraineeCoursesResultsViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T10:49:52.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UniqueNameAttribute.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\UniqueNameAttribute.cs",
+              "RelativeDocumentMoniker": "Models\\UniqueNameAttribute.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\UniqueNameAttribute.cs",
+              "RelativeToolTip": "Models\\UniqueNameAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:10:57.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICourseRepository.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\ICourseRepository.cs",
+              "RelativeToolTip": "Repository\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:53.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Course\\details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\details.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Course\\details.cshtml",
+              "RelativeToolTip": "Views\\Course\\details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InstructorController.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "Controllers\\InstructorController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HR System.csproj",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\HR System.csproj",
+              "RelativeDocumentMoniker": "HR System.csproj",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\HR System.csproj",
+              "RelativeToolTip": "HR System.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T11:13:17.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "Models\\Trainee.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\Trainee.cs",
+              "RelativeToolTip": "Models\\Trainee.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:53.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TraineeController.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "Controllers\\TraineeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvy0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Trainee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainee\\Edit.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Trainee\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Trainee\\Edit.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAmwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Trainee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainee\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Trainee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Trainee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Trainee\\details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainee\\details.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Trainee\\details.cshtml",
+              "RelativeToolTip": "Views\\Trainee\\details.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "details.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Course\\details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\details.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Course\\details.cshtml",
+              "RelativeToolTip": "Views\\Course\\details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddNew.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Department\\AddNew.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\AddNew.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Department\\AddNew.cshtml",
+              "RelativeToolTip": "Views\\Department\\AddNew.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAiwEIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TraineeController.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "Controllers\\TraineeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DayController.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\DayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DayController.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Controllers\\DayController.cs",
+              "RelativeToolTip": "Controllers\\DayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginUserVm.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\ViewModels\\LoginUserVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginUserVm.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\ViewModels\\LoginUserVm.cs",
+              "RelativeToolTip": "ViewModels\\LoginUserVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240315150937_Security.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Migrations\\20240315150937_Security.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240315150937_Security.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Migrations\\20240315150937_Security.cs",
+              "RelativeToolTip": "Migrations\\20240315150937_Security.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAgwH8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationUserViewModel.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\ViewModels\\ApplicationUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ApplicationUserViewModel.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\ViewModels\\ApplicationUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ApplicationUserViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Edit.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Course\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DepartmentRepository.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "Repository\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TraineeRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\TraineeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TraineeRepository.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\TraineeRepository.cs",
+              "RelativeToolTip": "Repository\\TraineeRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddNew.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Trainee\\AddNew.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainee\\AddNew.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Trainee\\AddNew.cshtml",
+              "RelativeToolTip": "Views\\Trainee\\AddNew.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:52.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Repository\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ITraineeRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\ITraineeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ITraineeRepository.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\ITraineeRepository.cs",
+              "RelativeToolTip": "Repository\\ITraineeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IInstructorRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\IInstructorRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IInstructorRepository.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\IInstructorRepository.cs",
+              "RelativeToolTip": "Repository\\IInstructorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:52.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InstructorRepository.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\InstructorRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\InstructorRepository.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Repository\\InstructorRepository.cs",
+              "RelativeToolTip": "Repository\\InstructorRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CheckManagerAttribute.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\CheckManagerAttribute.cs",
+              "RelativeDocumentMoniker": "Models\\CheckManagerAttribute.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\CheckManagerAttribute.cs",
+              "RelativeToolTip": "Models\\CheckManagerAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:53.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\CourseResults\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CourseResults\\Index.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\CourseResults\\Index.cshtml",
+              "RelativeToolTip": "Views\\CourseResults\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:53.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddNew.cshtml",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Instructor\\AddNew.cshtml",
+              "RelativeDocumentMoniker": "Views\\Instructor\\AddNew.cshtml",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Views\\Instructor\\AddNew.cshtml",
+              "RelativeToolTip": "Views\\Instructor\\AddNew.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T10:49:53.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "D:\\.Net\\Coding\\Projects\\HR System\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:49:53.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
